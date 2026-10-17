@@ -1,2 +1,0 @@
-# aigorithms
-My Python algorithm
